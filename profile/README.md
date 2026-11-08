@@ -61,6 +61,7 @@ Gilgit Baltistan is home to:
 | Name | From | Works With |
 |------|------|------------|
 | [@xabbas](https://github.com/xabbas) | Gilgit | Systems, Networking |
+| [@muhammad230](https://github.com/muhammad230) | Gilgit, Pakistan | Frontend Development, React.js, JavaScript |
 
 *Want to be on this list? Join us!*
 
